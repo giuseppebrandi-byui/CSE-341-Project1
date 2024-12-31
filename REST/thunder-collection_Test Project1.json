@@ -1,0 +1,35 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Test Project1",
+    "collectionId": "0650e052-3840-4df3-a57f-01efb9880bc4",
+    "dateExported": "2024-12-31T18:34:08.442Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "2371e382-5dd0-4aae-b96d-85be3d0392b1",
+            "colId": "0650e052-3840-4df3-a57f-01efb9880bc4",
+            "containerId": "",
+            "name": "users",
+            "url": "http://localhost:3000/users",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-12-31T18:30:41.194Z",
+            "modified": "2024-12-31T18:32:24.582Z",
+            "headers": []
+        },
+        {
+            "_id": "f6251a9b-15d4-4856-8b03-0cc051242020",
+            "colId": "0650e052-3840-4df3-a57f-01efb9880bc4",
+            "containerId": "",
+            "name": "single",
+            "url": "http://localhost:3000/users/6770784dae020e73e00677be",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-12-31T18:31:56.164Z",
+            "modified": "2024-12-31T18:32:35.557Z",
+            "headers": []
+        }
+    ],
+    "ref": "L8Ae8bKwZ976m6hnibhpBkqvSrm_0ZEFjiL6CduAOs9xFiFrEgDA0d5mNiL353lvJl-2ATQrbcPF297E9foVEA"
+}

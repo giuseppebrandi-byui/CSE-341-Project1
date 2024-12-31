@@ -1,0 +1,45 @@
+{
+    "info": {
+        "_postman_id": "f44341a0-4c26-4086-81ef-0c3ff14b8261",
+        "name": "Test Project1",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "description": ""
+    },
+    "item": [
+        {
+            "name": "users",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "http://localhost:3000/users",
+                    "path": [
+                        "users"
+                    ],
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000"
+                }
+            }
+        },
+        {
+            "name": "single",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "http://localhost:3000/users/6770784dae020e73e00677be",
+                    "path": [
+                        "users",
+                        "6770784dae020e73e00677be"
+                    ],
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "3000"
+                }
+            }
+        }
+    ]
+}
